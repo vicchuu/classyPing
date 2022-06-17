@@ -55,7 +55,7 @@ car3 = electricCar("Tesla S",2023,"Electric")
 
 
 def calc(x,y):
-
+   
     return x*y
 
 
